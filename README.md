@@ -1,6 +1,6 @@
 # Capacitive Touch Activated Bird Bath
 # Overview
-This project is a capacitive touch-activated bird bath that uses an Arduino to control a water pump. When the capacitive sensor detects a significant change in capacitance, indicating that a bird is touching the sensor or nearby water, it activates the pump to start the fountain.
+This project is a capacitive touch-activated bird bath that uses an Arduino to control a water pump. When the capacitive sensor detects a significant change in capacitance, indicating that a bird is touching the sensor or nearby water, it activates the pump to start the fountain. See it in action here: https://www.youtube.com/watch?v=mySYv0p2rzA
 # Key Features
 * Capacitive Sensor Input: Detects when a bird interacts with the bird bath.
 * Water Pump Control: Automatically turns the pump on/off based on sensor readings.
